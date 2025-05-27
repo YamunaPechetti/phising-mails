@@ -1,8 +1,8 @@
-# 📄 Phishing Email Analysis Report
+# Phishing Email Analysis Report
 
 ---
 
-## 📨 Example 1: SupremeInvoice Fake Billing Email (`phishing1.png`)
+## Example 1: SupremeInvoice Fake Billing Email (`phishing1.png`)
 
 ### Indicators:
 1. **Generic Sender Address**: `domain@domain-name.com` – clearly fake, no relation to an actual billing provider.
@@ -13,7 +13,7 @@
 
 ---
 
-## 📨 Example 2: Outlook Fake Account Upgrade (`phishing2.png`)
+## Example 2: Outlook Fake Account Upgrade (`phishing2.png`)
 
 ### Indicators:
 1. **Generic Greeting**: “Dear User” instead of personalized name.
@@ -24,7 +24,7 @@
 
 ---
 
-## 📨 Example 3: Nigerian Prince Scam Email (`phishing3.png`)
+## Example 3: Nigerian Prince Scam Email (`phishing3.png`)
 
 ### Indicators:
 1. **Unusual Story**: Mentions millions of dollars from a foreign bank.
